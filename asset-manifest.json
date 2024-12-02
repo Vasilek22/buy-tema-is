@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vasilek22/buy-IS/static/css/main.7a8ede79.css",
+    "main.js": "/Vasilek22/buy-IS/static/js/main.886d4404.js",
+    "static/media/123123.png": "/Vasilek22/buy-IS/static/media/123123.29ab74a926012f03b023.png",
+    "static/media/vecteezy_vk-3d-illustration_13212086.png": "/Vasilek22/buy-IS/static/media/vecteezy_vk-3d-illustration_13212086.a3a83a8aa525f6dea5c3.png",
+    "index.html": "/Vasilek22/buy-IS/index.html",
+    "main.7a8ede79.css.map": "/Vasilek22/buy-IS/static/css/main.7a8ede79.css.map",
+    "main.886d4404.js.map": "/Vasilek22/buy-IS/static/js/main.886d4404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8ede79.css",
+    "static/js/main.886d4404.js"
+  ]
+}
